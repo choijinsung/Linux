@@ -1,0 +1,7 @@
+gedit test.sh
+
+#!
+w
+
+chmod a+x test.sh
+./test.sh
